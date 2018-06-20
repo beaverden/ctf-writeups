@@ -1,0 +1,6 @@
+f=open('pwnsandbox', 'rb')
+d=f.read()
+d=d.replace('\x55\x48\x89\xE5\x90\x5D\xC3', '\x00'*7)
+r=open('pwnsandbox.new', 'wb')
+r.write(d)
+r.close()

@@ -1,0 +1,14 @@
+foo:
+    pushl %ebp
+    mov %esp, %ebp
+    pushl %edi
+    pushl %esi
+    pushl %ebx
+    sub $0xf4, %esp
+    movl $0x1, (%esp)
+    movl $0x2, 0x4(%esp)
+    movl $0x3, 0x8(%esp)
+    movl $0x4, 0xc(%esp)
+
+
+// Difference is 0x104, 0xf4 + 16

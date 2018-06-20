@@ -1,0 +1,4 @@
+Morse code in the image
+...- --- --- -.. --- ---
+.--. --- .-- . .-.
+voodoo:power

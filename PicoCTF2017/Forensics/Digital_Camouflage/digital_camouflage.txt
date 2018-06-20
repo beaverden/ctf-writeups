@@ -1,0 +1,2 @@
+Password is contained in a POST request, base64 encoded.
+When decoded, it's: vyAjQG0hh6

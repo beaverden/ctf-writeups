@@ -1,0 +1,1 @@
+Decompile the class, add println to get the decrypted flag

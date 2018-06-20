@@ -1,0 +1,1 @@
+rsync -v -e 'ssh -p 2222' input2@pwnable.kr:~/input.c  ~/pwn/input2/

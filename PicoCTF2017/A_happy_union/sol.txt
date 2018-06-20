@@ -1,0 +1,3 @@
+Some SqLite insert injections
+
+flag{union?_why_not_onion_a69464d4869c743e26c08df8686e4003}

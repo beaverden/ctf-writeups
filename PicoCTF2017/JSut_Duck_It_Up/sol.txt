@@ -1,0 +1,1 @@
+It's JSFuck, obfuscated javascript, the flag is in the decoded version

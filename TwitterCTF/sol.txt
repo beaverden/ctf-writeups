@@ -1,0 +1,7 @@
+Level 1: base64 'dnp0aGUucGJ6L0VHUnlZUUI=' (res: 'vzthe.pbz/EGRyYQB')
+Level 2: caesar cipher  (res: https://imgur.com/RTElLDO)
+Level 3: qr code ("pacp.egnellahc/d51890186255bdf68a4db1316130a2ff/selif/ytrap.spip.dftc//:sptth")
+	 res: "https://ctfd.pips.party/files/ff2a0316131bd4a86fdb55268109815d/challenge.pcap"
+Level 4: pcap (contains zip and image with password redherring)
+Level 5: morse code (result: '159.65.103.46')
+Level 6: apache site, with a header that gives "MARV WAS HERE"

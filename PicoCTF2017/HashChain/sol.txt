@@ -1,0 +1,1 @@
+It used to generate the hashes using the user id, so it was easy to extract the hash before the given one

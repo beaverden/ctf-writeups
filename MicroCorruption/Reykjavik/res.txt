@@ -1,0 +1,97 @@
+0x2400 0b12           push	r11
+0x2402 0412           push	r4
+0x2404 0441           mov	sp, r4
+0x2406 2452           add	#0x4, r4
+0x2408 3150 e0ff      add	#0xffe0, sp
+
+<Print what's the password\n>
+0x240c 3b40 2045      mov	#0x4520, r11
+0x2410 073c           jmp	$+0x10
+0x2412 1b53           inc	r11
+0x2414 8f11           sxt	r15
+0x2416 0f12           push	r15
+0x2418 0312           push	#0x0
+0x241a b012 6424      call	#0x2464
+0x241e 2152           add	#0x4, sp
+0x2420 6f4b           mov.b	@r11, r15
+0x2422 4f93           tst.b	r15
+0x2424 f623           jnz	$-0x12
+0x2426 3012 0a00      push	#0xa
+0x242a 0312           push	#0x0
+0x242c b012 6424      call	#0x2464
+0x2430 2152           add	#0x4, sp
+</Print what's the password\n>
+
+
+0x2432 3012 1f00      push	#0x1f
+0x2436 3f40 dcff      mov	#0xffdc, r15 // -24
+0x243a 0f54           add	r4, r15
+0x243c 0f12           push	r15
+0x243e 2312           push	#0x2
+0x2440 b012 6424      call	#0x2464
+0x2444 3150 0600      add	#0x6, sp
+0x2448 b490 9fa0 dcff cmp	#0xa09f, -0x24(r4)
+0x244e 0520           jnz	$+0xc
+0x2450 3012 7f00      push	#0x7f
+0x2454 b012 6424      call	#0x2464
+0x2458 2153           incd	sp
+0x245a 3150 2000      add	#0x20, sp
+0x245e 3441           pop	r4
+0x2460 3b41           pop	r11
+0x2462 3041           ret
+
+<INT>
+0x2464 1e41 0200      mov	0x2(sp), r14
+0x2468 0212           push	sr
+0x246a 0f4e           mov	r14, r15
+0x246c 8f10           swpb	r15
+0x246e 024f           mov	r15, sr
+0x2470 32d0 0080      bis	#0x8000, sr
+0x2474 b012 1000      call	#0x10
+0x2478 3241           pop	sr
+0x247a 3041           ret
+</INT>
+
+0x247c d21a 189a      call	&0x9a18
+0x2480 22dc           bis	@r12, sr
+0x2482 45b9           bit.b	r9, r5
+0x2484 4279           subc.b	r9, sr
+0x2486 2d55           add	@r5, r13
+0x2488 858e a4a2      sub	r14, -0x5d5c(r5)
+0x248c 67d7           bis.b	@r7, r7
+0x248e 14ae a119      dadd	0x19a1(r14), r4
+0x2492 76f6           and.b	@r6+, r6
+0x2494 42cb           bic.b	r11, sr
+0x2496 1c04 0efa      rrc	-0x5f2(r12)
+0x249a a61b           invalid	@r6
+0x249c 74a7           dadd.b	@r7+, r4
+0x249e 416b           addc.b	r11, sp
+0x24a0 d237           jge	$-0x5a
+0x24a2 a253 22e4      incd	&0xe422
+0x24a6 66af           dadd.b	@r15, r6
+0x24a8 c1a5 938b      dadd.b	r5, -0x746d(sp)
+0x24ac 8971 9b88      subc	sp, -0x7765(r9)
+0x24b0 fa9b 6674      cmp.b	@r11+, 0x7466(r10)
+0x24b4 4e21           jnz	$+0x29e
+0x24b6 2a6b           addc	@r11, r10
+0x24b8 b143 9151      mov	#-0x1, 0x5191(sp)
+0x24bc 3dcc           bic	@r12+, r13
+0x24be a6f5 daa7      and	@r5, -0x5826(r6)
+0x24c2 db3f           jmp	$-0x48
+0x24c4 8d3c           jmp	$+0x11c
+0x24c6 4d18           rrc.b	r13
+0x24c8 4736           jge	$-0x370
+0x24ca dfa6 459a 2461 dadd.b	-0x65bb(r6), 0x6124(r15)
+0x24d0 921d 3291      sxt	&0x9132
+0x24d4 14e6 8157      xor	0x5781(r6), r4
+0x24d8 b0fe 2ddd      and	@r14+, -0x22d3(pc)
+0x24dc 400b           reti	pc
+0x24de 8688 6310      sub	r8, 0x1063(r6)
+0x24e2 3ab3           bit	#-0x1, r10
+0x24e4 612b           jnc	$-0x13c
+0x24e6 0bd9           bis	r9, r11
+0x24e8 483f           jmp	$-0x16e
+0x24ea 4e04           rrc.b	r14
+0x24ec 5870 4c38      subc.b	0x384c(pc), r8
+0x24f0 c93c           jmp	$+0x194
+0x24f2 ff36           jge	$-0x200

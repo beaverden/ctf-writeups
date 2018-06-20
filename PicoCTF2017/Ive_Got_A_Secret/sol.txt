@@ -1,0 +1,1 @@
+Printf exploit, %x %x %x %x %x, get the random random

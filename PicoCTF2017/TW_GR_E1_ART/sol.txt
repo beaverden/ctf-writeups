@@ -1,0 +1,2 @@
+Crappy node js servers sometimes expose their package.json file, where you can find all dependencies and files
+in config.js lays the code that generates the correct flag
