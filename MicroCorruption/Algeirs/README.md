@@ -104,6 +104,7 @@ The code is not totally accurate, but notice the line `prev_block->size = prev_b
 This way, the username input should be 
 `[next block] AA AA AA AA AA AA AA AA AA AA [ overwritten block ]` 
 Where next block is 
+
 ```
 struct next_block {
     0x0 doesn't matter
@@ -119,4 +120,5 @@ struct overwritten_block {
 
 ## Solution
 **Username**: `AA AA AA AA 01 01 AA AA AA AA AA AA AA AA AA AA 90 43 0e 24 B6 FE`
+
 **Password**: doesn't matter, might be blank
