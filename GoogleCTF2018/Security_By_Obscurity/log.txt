@@ -1,0 +1,1277 @@
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 7216 bytes (8 KiB)
+
+Extracting archive: archive17.7z
+WARNING:
+archive17.7z
+Can not open the file as [7z] archive
+The file is open as [xz] archive
+
+--
+Path = archive17.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = xz
+Physical Size = 7216
+Method = LZMA2:23 CRC64
+Streams = 1
+Blocks = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       7168
+Compressed: 7216
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 7168 bytes (7 KiB)
+
+Extracting archive: archive18.7z
+WARNING:
+archive18.7z
+Can not open the file as [7z] archive
+The file is open as [xz] archive
+
+--
+Path = archive18.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = xz
+Physical Size = 7168
+Method = LZMA2:23 CRC64
+Streams = 1
+Blocks = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       7108
+Compressed: 7168
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 7108 bytes (7 KiB)
+
+Extracting archive: archive19.7z
+WARNING:
+archive19.7z
+Can not open the file as [7z] archive
+The file is open as [xz] archive
+
+--
+Path = archive19.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = xz
+Physical Size = 7108
+Method = LZMA2:23 CRC64
+Streams = 1
+Blocks = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       7048
+Compressed: 7108
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 7048 bytes (7 KiB)
+
+Extracting archive: archive20.7z
+WARNING:
+archive20.7z
+Can not open the file as [7z] archive
+The file is open as [xz] archive
+
+--
+Path = archive20.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = xz
+Physical Size = 7048
+Method = LZMA2:23 CRC64
+Streams = 1
+Blocks = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       6988
+Compressed: 7048
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6988 bytes (7 KiB)
+
+Extracting archive: archive21.7z
+WARNING:
+archive21.7z
+Can not open the file as [7z] archive
+The file is open as [xz] archive
+
+--
+Path = archive21.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = xz
+Physical Size = 6988
+Method = LZMA2:23 CRC64
+Streams = 1
+Blocks = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       6944
+Compressed: 6988
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6944 bytes (7 KiB)
+
+Extracting archive: archive22.7z
+WARNING:
+archive22.7z
+Can not open the file as [7z] archive
+The file is open as [xz] archive
+
+--
+Path = archive22.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = xz
+Physical Size = 6944
+Method = LZMA2:23 CRC64
+Streams = 1
+Blocks = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       6884
+Compressed: 6944
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6884 bytes (7 KiB)
+
+Extracting archive: archive23.7z
+WARNING:
+archive23.7z
+Can not open the file as [7z] archive
+The file is open as [xz] archive
+
+--
+Path = archive23.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = xz
+Physical Size = 6884
+Method = LZMA2:23 CRC64
+Streams = 1
+Blocks = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       6824
+Compressed: 6884
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6824 bytes (7 KiB)
+
+Extracting archive: archive24.7z
+WARNING:
+archive24.7z
+Can not open the file as [7z] archive
+The file is open as [xz] archive
+
+--
+Path = archive24.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = xz
+Physical Size = 6824
+Method = LZMA2:23 CRC64
+Streams = 1
+Blocks = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       6764
+Compressed: 6824
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6764 bytes (7 KiB)
+
+Extracting archive: archive25.7z
+WARNING:
+archive25.7z
+Can not open the file as [7z] archive
+The file is open as [xz] archive
+
+--
+Path = archive25.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = xz
+Physical Size = 6764
+Method = LZMA2:23 CRC64
+Streams = 1
+Blocks = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       6716
+Compressed: 6764
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6716 bytes (7 KiB)
+
+Extracting archive: archive26.7z
+WARNING:
+archive26.7z
+Can not open the file as [7z] archive
+The file is open as [xz] archive
+
+--
+Path = archive26.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = xz
+Physical Size = 6716
+Method = LZMA2:23 CRC64
+Streams = 1
+Blocks = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       6656
+Compressed: 6716
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6656 bytes (7 KiB)
+
+Extracting archive: archive27.7z
+WARNING:
+archive27.7z
+Can not open the file as [7z] archive
+The file is open as [xz] archive
+
+--
+Path = archive27.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = xz
+Physical Size = 6656
+Method = LZMA2:23 CRC64
+Streams = 1
+Blocks = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       6596
+Compressed: 6656
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6596 bytes (7 KiB)
+
+Extracting archive: archive28.7z
+WARNING:
+archive28.7z
+Can not open the file as [7z] archive
+The file is open as [xz] archive
+
+--
+Path = archive28.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = xz
+Physical Size = 6596
+Method = LZMA2:23 CRC64
+Streams = 1
+Blocks = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       6536
+Compressed: 6596
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6536 bytes (7 KiB)
+
+Extracting archive: archive29.7z
+WARNING:
+archive29.7z
+Can not open the file as [7z] archive
+The file is open as [xz] archive
+
+--
+Path = archive29.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = xz
+Physical Size = 6536
+Method = LZMA2:23 CRC64
+Streams = 1
+Blocks = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       6496
+Compressed: 6536
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6496 bytes (7 KiB)
+
+Extracting archive: archive30.7z
+WARNING:
+archive30.7z
+Can not open the file as [7z] archive
+The file is open as [xz] archive
+
+--
+Path = archive30.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = xz
+Physical Size = 6496
+Method = LZMA2:23 CRC64
+Streams = 1
+Blocks = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       6436
+Compressed: 6496
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6436 bytes (7 KiB)
+
+Extracting archive: archive31.7z
+WARNING:
+archive31.7z
+Can not open the file as [7z] archive
+The file is open as [xz] archive
+
+--
+Path = archive31.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = xz
+Physical Size = 6436
+Method = LZMA2:23 CRC64
+Streams = 1
+Blocks = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       6376
+Compressed: 6436
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6376 bytes (7 KiB)
+
+Extracting archive: archive32.7z
+WARNING:
+archive32.7z
+Can not open the file as [7z] archive
+The file is open as [xz] archive
+
+--
+Path = archive32.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = xz
+Physical Size = 6376
+Method = LZMA2:23 CRC64
+Streams = 1
+Blocks = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       6314
+Compressed: 6376
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 6314 bytes (7 KiB)
+
+Extracting archive: archive33.7z
+WARNING:
+archive33.7z
+Can not open the file as [7z] archive
+The file is open as [bzip2] archive
+
+--
+Path = archive33.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = bzip2
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       5846
+Compressed: 6314
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 5846 bytes (6 KiB)
+
+Extracting archive: archive34.7z
+WARNING:
+archive34.7z
+Can not open the file as [7z] archive
+The file is open as [bzip2] archive
+
+--
+Path = archive34.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = bzip2
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       5375
+Compressed: 5846
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 5375 bytes (6 KiB)
+
+Extracting archive: archive35.7z
+WARNING:
+archive35.7z
+Can not open the file as [7z] archive
+The file is open as [bzip2] archive
+
+--
+Path = archive35.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = bzip2
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       4943
+Compressed: 5375
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 4943 bytes (5 KiB)
+
+Extracting archive: archive36.7z
+WARNING:
+archive36.7z
+Can not open the file as [7z] archive
+The file is open as [bzip2] archive
+
+--
+Path = archive36.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = bzip2
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       4476
+Compressed: 4943
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 4476 bytes (5 KiB)
+
+Extracting archive: archive37.7z
+WARNING:
+archive37.7z
+Can not open the file as [7z] archive
+The file is open as [bzip2] archive
+
+--
+Path = archive37.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = bzip2
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       4022
+Compressed: 4476
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 4022 bytes (4 KiB)
+
+Extracting archive: archive38.7z
+WARNING:
+archive38.7z
+Can not open the file as [7z] archive
+The file is open as [bzip2] archive
+
+--
+Path = archive38.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = bzip2
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       3593
+Compressed: 4022
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 3593 bytes (4 KiB)
+
+Extracting archive: archive39.7z
+WARNING:
+archive39.7z
+Can not open the file as [7z] archive
+The file is open as [bzip2] archive
+
+--
+Path = archive39.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = bzip2
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       3157
+Compressed: 3593
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 3157 bytes (4 KiB)
+
+Extracting archive: archive40.7z
+WARNING:
+archive40.7z
+Can not open the file as [7z] archive
+The file is open as [bzip2] archive
+
+--
+Path = archive40.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = bzip2
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       2721
+Compressed: 3157
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 2721 bytes (3 KiB)
+
+Extracting archive: archive41.7z
+WARNING:
+archive41.7z
+Can not open the file as [7z] archive
+The file is open as [bzip2] archive
+
+--
+Path = archive41.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = bzip2
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       2339
+Compressed: 2721
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 2339 bytes (3 KiB)
+
+Extracting archive: archive42.7z
+WARNING:
+archive42.7z
+Can not open the file as [7z] archive
+The file is open as [bzip2] archive
+
+--
+Path = archive42.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = bzip2
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       1959
+Compressed: 2339
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 1959 bytes (2 KiB)
+
+Extracting archive: archive43.7z
+WARNING:
+archive43.7z
+Can not open the file as [7z] archive
+The file is open as [bzip2] archive
+
+--
+Path = archive43.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = bzip2
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       1595
+Compressed: 1959
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 1595 bytes (2 KiB)
+
+Extracting archive: archive44.7z
+WARNING:
+archive44.7z
+Can not open the file as [7z] archive
+The file is open as [bzip2] archive
+
+--
+Path = archive44.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = bzip2
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       1285
+Compressed: 1595
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 1285 bytes (2 KiB)
+
+Extracting archive: archive45.7z
+WARNING:
+archive45.7z
+Can not open the file as [7z] archive
+The file is open as [bzip2] archive
+
+--
+Path = archive45.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = bzip2
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       1027
+Compressed: 1285
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 1027 bytes (2 KiB)
+
+Extracting archive: archive46.7z
+WARNING:
+archive46.7z
+Can not open the file as [7z] archive
+The file is open as [bzip2] archive
+
+--
+Path = archive46.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = bzip2
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       816
+Compressed: 1027
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 816 bytes (1 KiB)
+
+Extracting archive: archive47.7z
+WARNING:
+archive47.7z
+Can not open the file as [7z] archive
+The file is open as [bzip2] archive
+
+--
+Path = archive47.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = bzip2
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       614
+Compressed: 816
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 614 bytes (1 KiB)
+
+Extracting archive: archive48.7z
+WARNING:
+archive48.7z
+Can not open the file as [7z] archive
+The file is open as [bzip2] archive
+
+--
+Path = archive48.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = bzip2
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       493
+Compressed: 614
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 493 bytes (1 KiB)
+
+Extracting archive: archive49.7z
+WARNING:
+archive49.7z
+Can not open the file as [7z] archive
+The file is open as [gzip] archive
+
+--
+Path = archive49.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = gzip
+Headers Size = 10
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       470
+Compressed: 493
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 470 bytes (1 KiB)
+
+Extracting archive: archive50.7z
+WARNING:
+archive50.7z
+Can not open the file as [7z] archive
+The file is open as [gzip] archive
+
+--
+Path = archive50.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = gzip
+Headers Size = 10
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       447
+Compressed: 470
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 447 bytes (1 KiB)
+
+Extracting archive: archive51.7z
+WARNING:
+archive51.7z
+Can not open the file as [7z] archive
+The file is open as [gzip] archive
+
+--
+Path = archive51.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = gzip
+Headers Size = 10
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       424
+Compressed: 447
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 424 bytes (1 KiB)
+
+Extracting archive: archive52.7z
+WARNING:
+archive52.7z
+Can not open the file as [7z] archive
+The file is open as [gzip] archive
+
+--
+Path = archive52.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = gzip
+Headers Size = 10
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       412
+Compressed: 424
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 412 bytes (1 KiB)
+
+Extracting archive: archive53.7z
+WARNING:
+archive53.7z
+Can not open the file as [7z] archive
+The file is open as [gzip] archive
+
+--
+Path = archive53.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = gzip
+Headers Size = 10
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       389
+Compressed: 412
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 389 bytes (1 KiB)
+
+Extracting archive: archive54.7z
+WARNING:
+archive54.7z
+Can not open the file as [7z] archive
+The file is open as [gzip] archive
+
+--
+Path = archive54.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = gzip
+Headers Size = 10
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       366
+Compressed: 389
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 366 bytes (1 KiB)
+
+Extracting archive: archive55.7z
+WARNING:
+archive55.7z
+Can not open the file as [7z] archive
+The file is open as [gzip] archive
+
+--
+Path = archive55.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = gzip
+Headers Size = 10
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       343
+Compressed: 366
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 343 bytes (1 KiB)
+
+Extracting archive: archive56.7z
+WARNING:
+archive56.7z
+Can not open the file as [7z] archive
+The file is open as [gzip] archive
+
+--
+Path = archive56.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = gzip
+Headers Size = 10
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       324
+Compressed: 343
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 324 bytes (1 KiB)
+
+Extracting archive: archive57.7z
+WARNING:
+archive57.7z
+Can not open the file as [7z] archive
+The file is open as [gzip] archive
+
+--
+Path = archive57.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = gzip
+Headers Size = 10
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       301
+Compressed: 324
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 301 bytes (1 KiB)
+
+Extracting archive: archive58.7z
+WARNING:
+archive58.7z
+Can not open the file as [7z] archive
+The file is open as [gzip] archive
+
+--
+Path = archive58.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = gzip
+Headers Size = 10
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       278
+Compressed: 301
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 278 bytes (1 KiB)
+
+Extracting archive: archive59.7z
+WARNING:
+archive59.7z
+Can not open the file as [7z] archive
+The file is open as [gzip] archive
+
+--
+Path = archive59.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = gzip
+Headers Size = 10
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       265
+Compressed: 278
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 265 bytes (1 KiB)
+
+Extracting archive: archive60.7z
+WARNING:
+archive60.7z
+Can not open the file as [7z] archive
+The file is open as [gzip] archive
+
+--
+Path = archive60.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = gzip
+Headers Size = 10
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       242
+Compressed: 265
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 242 bytes (1 KiB)
+
+Extracting archive: archive61.7z
+WARNING:
+archive61.7z
+Can not open the file as [7z] archive
+The file is open as [gzip] archive
+
+--
+Path = archive61.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = gzip
+Headers Size = 10
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       219
+Compressed: 242
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 219 bytes (1 KiB)
+
+Extracting archive: archive62.7z
+WARNING:
+archive62.7z
+Can not open the file as [7z] archive
+The file is open as [gzip] archive
+
+--
+Path = archive62.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = gzip
+Headers Size = 10
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       200
+Compressed: 219
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 200 bytes (1 KiB)
+
+Extracting archive: archive63.7z
+WARNING:
+archive63.7z
+Can not open the file as [7z] archive
+The file is open as [gzip] archive
+
+--
+Path = archive63.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = gzip
+Headers Size = 10
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       177
+Compressed: 200
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 177 bytes (1 KiB)
+
+Extracting archive: archive64.7z
+WARNING:
+archive64.7z
+Can not open the file as [7z] archive
+The file is open as [gzip] archive
+
+--
+Path = archive64.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = gzip
+Headers Size = 10
+
+Everything is Ok
+
+Archives with Warnings: 1
+Size:       234
+Compressed: 177
+
+7-Zip 18.05 (x64) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 234 bytes (1 KiB)
+
+Extracting archive: archive65.7z
+WARNING:
+archive65.7z
+Can not open the file as [7z] archive
+The file is open as [zip] archive
+
+--
+Path = archive65.7z
+Open WARNING: Can not open the file as [7z] archive
+Type = zip
+Physical Size = 234
+
+
+Would you like to replace the existing file:
+  Path:     .\password.txt
+  Size:     0 bytes
+  Modified: 2018-06-14 14:53:22
+with the file from archive:
+  Path:     password.txt
+  Size:     32 bytes (1 KiB)
+  Modified: 2018-06-14 14:53:22
+? (Y)es / (N)o / (A)lways / (S)kip all / A(u)to rename all / (Q)uit? 
+Archives with Errors: 1
+
+password.x.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.p.o.n.m.l.k.j.i.h.g.f.e.d.c.b.a.a.b.c.d.e.f.g.h.i.j.k.l.m
+password.x.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.p.o.n.m.l.k.j.i.h.g.f.e.d.c.b.a.a.b.c.d.e.f.g.h.i.j.k.l
+password.x.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.p.o.n.m.l.k.j.i.h.g.f.e.d.c.b.a.a.b.c.d.e.f.g.h.i.j.k
+password.x.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.p.o.n.m.l.k.j.i.h.g.f.e.d.c.b.a.a.b.c.d.e.f.g.h.i.j
+password.x.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.p.o.n.m.l.k.j.i.h.g.f.e.d.c.b.a.a.b.c.d.e.f.g.h.i
+password.x.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.p.o.n.m.l.k.j.i.h.g.f.e.d.c.b.a.a.b.c.d.e.f.g.h
+password.x.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.p.o.n.m.l.k.j.i.h.g.f.e.d.c.b.a.a.b.c.d.e.f.g
+password.x.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.p.o.n.m.l.k.j.i.h.g.f.e.d.c.b.a.a.b.c.d.e.f
+password.x.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.p.o.n.m.l.k.j.i.h.g.f.e.d.c.b.a.a.b.c.d.e
+password.x.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.p.o.n.m.l.k.j.i.h.g.f.e.d.c.b.a.a.b.c.d
+password.x.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.p.o.n.m.l.k.j.i.h.g.f.e.d.c.b.a.a.b.c
+password.x.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.p.o.n.m.l.k.j.i.h.g.f.e.d.c.b.a.a.b
+password.x.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.p.o.n.m.l.k.j.i.h.g.f.e.d.c.b.a.a
+password.x.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.a.b.c.d.e.f.g.h.i.j.k.l.m.n.o.p.p.o.n.m.l.k.j.i.h.g.f.e.d.c.b.a
+archive17.zip 17
+file =  archive17
+current =  archive18.7z
+file =  archive18
+current =  archive19.7z
+file =  archive19
+current =  archive20.7z
+file =  archive20
+current =  archive21.7z
+file =  archive21
+current =  archive22.7z
+file =  archive22
+current =  archive23.7z
+file =  archive23
+current =  archive24.7z
+file =  archive24
+current =  archive25.7z
+file =  archive25
+current =  archive26.7z
+file =  archive26
+current =  archive27.7z
+file =  archive27
+current =  archive28.7z
+file =  archive28
+current =  archive29.7z
+file =  archive29
+current =  archive30.7z
+file =  archive30
+current =  archive31.7z
+file =  archive31
+current =  archive32.7z
+file =  archive32
+current =  archive33.7z
+file =  archive33
+current =  archive34.7z
+file =  archive34
+current =  archive35.7z
+file =  archive35
+current =  archive36.7z
+file =  archive36
+current =  archive37.7z
+file =  archive37
+current =  archive38.7z
+file =  archive38
+current =  archive39.7z
+file =  archive39
+current =  archive40.7z
+file =  archive40
+current =  archive41.7z
+file =  archive41
+current =  archive42.7z
+file =  archive42
+current =  archive43.7z
+file =  archive43
+current =  archive44.7z
+file =  archive44
+current =  archive45.7z
+file =  archive45
+current =  archive46.7z
+file =  archive46
+current =  archive47.7z
+file =  archive47
+current =  archive48.7z
+file =  archive48
+current =  archive49.7z
+file =  archive49
+current =  archive50.7z
+file =  archive50
+current =  archive51.7z
+file =  archive51
+current =  archive52.7z
+file =  archive52
+current =  archive53.7z
+file =  archive53
+current =  archive54.7z
+file =  archive54
+current =  archive55.7z
+file =  archive55
+current =  archive56.7z
+file =  archive56
+current =  archive57.7z
+file =  archive57
+current =  archive58.7z
+file =  archive58
+current =  archive59.7z
+file =  archive59
+current =  archive60.7z
+file =  archive60
+current =  archive61.7z
+file =  archive61
+current =  archive62.7z
+file =  archive62
+current =  archive63.7z
+file =  archive63
+current =  archive64.7z
+file =  archive64
+current =  archive65.7z
