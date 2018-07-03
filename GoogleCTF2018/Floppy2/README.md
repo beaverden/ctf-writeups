@@ -2,7 +2,7 @@
 
 The game makes us look back at out com file. Remember is said it does nothing? Well, I was wrong, apparently.
 
-It's pretty hard to debug these things nowdays, but with `DosBox` and `[DEBUG](http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/DOS-Debug.shtml)`
+It's pretty hard to debug these things nowdays, but with `DosBox` and [DEBUG](http://www.softpedia.com/get/Programming/Debuggers-Decompilers-Dissasemblers/DOS-Debug.shtml)
 command it might be something.
 
 From the disassembly (using IDA or anything else that can read these monsters) you might see a classic encrypted script that decrypts itself, so I let it run for a moment, while checking memory.
