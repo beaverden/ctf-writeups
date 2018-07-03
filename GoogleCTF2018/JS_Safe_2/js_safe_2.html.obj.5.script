@@ -1,0 +1,15 @@
+<script>
+function open_safe() {
+  keyhole.disabled = true;
+  password = /^CTF{([0-9a-zA-Z_@!?-]+)}$/.exec(keyhole.value);
+  if (!password || !x(password[1])) return document.body.className = 'denied';
+  document.body.className = 'granted';
+  password = Array.from(password[1]).map(c => c.charCodeAt());
+  encrypted = JSON.parse(localStorage.content || '');
+  content.value = encrypted.map((c,i) => c ^ password[i % password.length]).map(String.fromCharCode).join('')
+}
+function save() {
+  plaintext = Array.from(content.value).map(c => c.charCodeAt());
+  localStorage.content = JSON.stringify(plaintext.map((c,i) => c ^ password[i % password.length]));
+}
+</script>
