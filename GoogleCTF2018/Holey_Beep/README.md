@@ -43,6 +43,8 @@ fprintf(stderr, "debug_data: \"%s\"", &buf);
 That's it with the understanding.
 Now, obviously the thing we need to read from and don't have permissions is the file `/secret_cake_recipe`, so it will be safe to assume this needs to be our device.
 
+
+
 Let's create a directory where we can dump whatever we want. `/tmp/exploit`
 Now:
 `mkdir /tmp/exploit/dev`
@@ -79,4 +81,5 @@ ioctl(4, KIOCSOUND, 0) failed.debug_data: "== Secret recipe for the CTF{the_cake
 ```
 
 Full text [here](https://github.com/beaverden/ctf-writeups/blob/master/GoogleCTF2018/Holey_Beep/result.txt)
+
 Full script to get access to server and run binary [here](https://github.com/beaverden/ctf-writeups/blob/master/GoogleCTF2018/Holey_Beep/solution.py)
