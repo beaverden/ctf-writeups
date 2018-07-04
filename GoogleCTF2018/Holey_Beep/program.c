@@ -14,7 +14,7 @@ int main(int argc, char* argv[])
     {
         // Child should run holey_beep
         char str[LEN] = {0};
-        for (err = 0; err < LEN - 1; err++) str[err] = '0';
+        for (err = 0; err < LEN - 1; err++) str[err] = '1';
 
         char* args[] = {"/home/user/holey_beep", str, NULL};
         execv("/home/user/holey_beep", args);

@@ -1,0 +1,23 @@
+== Secret recipe for the CTF{the_cake_wasnt_a_lie} cake ==
+
+The Pittsburgh Engineer’s Cake (This is the maximum of the final Gaussian Process model, trained
+on all the Pittsburgh Trials, including transfer learning.)
+
+    Mix together flour, baking soda, and cayenne pepper. Then, mix the sugar, egg, butter (near refrigerator
+temperature), and other ingredients until nearly smooth; it takes about 2 minutes in a counter-top stand mixer
+with a flat paddle blade. Add the dry ingredients and mix just until the dough is uniform; do not over-mix. Spoon
+out onto parchment paper (we used a #40 scoop, 24 milliliters), and bake for 14 minutes at 175C (350?
+F).
+
+• 167 grams of all-purpose flour.
+• 186 grams of dark chocolate chips.
+• 1/2 tsp. baking soda.
+• 1/4 tsp. salt.
+• 1/4 tsp. cayenne pepper.
+• 262 grams of sugar (75% medium brown, 25% white).
+• 30 grams of egg.
+• 132 grams of butter.
+• 3/8 tsp. orange extract.
+• 1/2 tsp. vanilla extract.
+
+https://research.google.com/pubs/archive/46507.pdf
