@@ -18,3 +18,10 @@ PING 1.1.1.1 (1.1.1.1) 56(84) bytes of data.
 rtt min/avg/max/mdev = 12.253/12.502/13.068/0.338 ms 
 Flag: pluripresence 
 ```
+
+
+### These are not the droids...
+
+We can decompile the APK with `apktool d` command, then navigate to `smali`, `yanl`, `helloworld`, which seems to be the path to the source code.
+We have a few class files in there, let's do a `grep -ri "flag" .` just to make sure.
+And yes, we've got the string `./BuildConfig.smali:.field public static final FLAG:Ljava/lang/String; = "FLAG: harmonograph"`
