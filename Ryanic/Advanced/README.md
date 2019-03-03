@@ -25,3 +25,14 @@ Flag: pluripresence
 We can decompile the APK with `apktool d` command, then navigate to `smali`, `yanl`, `helloworld`, which seems to be the path to the source code.
 We have a few class files in there, let's do a `grep -ri "flag" .` just to make sure.
 And yes, we've got the string `./BuildConfig.smali:.field public static final FLAG:Ljava/lang/String; = "FLAG: harmonograph"`
+
+
+### Find the Flag(.txt)
+
+Looks like we don't directly have access to `find` or other commands, which may be sad, but what we have is `/bin/grep` and it can do a lot of useful stuff.
+Let's do a `/bin/grep -ri "flag"` on directories starting from `/`. First, do a `/bin/ls /` to see what dirs we have and try each one.
+After a few searches `/bin/grep -ri "flag" /lib` gives us the line `/lib/x86_x64-linux-gnu/security/Flag.txt:FLAG: minuend`
+
+### Find the Flag(.txt) Again
+The same trick works for the second challenge and we find the flag in the `etc` folder
+`/etc/go/ing/down/the/rabbit/hole/to/find/the/flag/Flag.txt:FLAG: muntjac`

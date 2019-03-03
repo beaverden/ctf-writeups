@@ -32,3 +32,26 @@ You've found the secret function!
 The flag is: bicollateral 
 ```
 Great!
+
+
+### Strings won't help you...
+
+We have an executable the is owned by root. If we execute it normally, it says `cat: /root/md5.hash: Permission denied` so probably it has something to do with hashing the password
+we give and comparing it to the exiting hash in the `md5.hash` file. But how can we possibly find out the contents of the hash file?
+First, we need to run the file as `root` let's `sudo ./program`. Now it works perfectly.
+Let's try to run `ltrace` on the binary to see what system calls it makes. 
+
+```
+popen("cat /root/md5.hash", "r")  = 0x1718010                                                                      
+fgets("6499cd1ef35fcb53529488cfa85ab9c6"..., 100, 0x1718010) = 0x7ffd035ec6d0            
+--- SIGCHLD (Child exited) ---         
+fgets("6499cd1ef35fcb53529488cfa85ab9c6"..., 100, 0x1718010)
+printf("Enter the password for the flag:"...)
+```
+
+Great, so we have the MD5 `6499cd1ef35fcb53529488cfa85ab9c6`, let's rainbow table it to get `bigbangtheory1`. 
+After running it with the correct password, we get
+```
+You got it! Here's the flag:                          
+fumatorium
+```
