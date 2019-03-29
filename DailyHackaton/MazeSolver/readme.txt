@@ -1,0 +1,2 @@
+*Conditia*: se cere gasirea drumului de la zona colorata cu rosu, la zona colorata cu verde. Evident, negru = perete, alb = drum.
+Ca raspuns, as vrea in PM acceasi poza, cu drumul (de la rosu la verde) colorat.
