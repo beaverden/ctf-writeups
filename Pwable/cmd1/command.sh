@@ -1,0 +1,1 @@
+/home/cmd1/cmd1 "export PATH=$PATH;cat /home/cmd1/\$f"
