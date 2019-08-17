@@ -1,0 +1,1 @@
+Triggering the first flag is easy, just write `500` of `A` to the stdin - get `CTF{Why_does_cauliflower_threaten_us}`
