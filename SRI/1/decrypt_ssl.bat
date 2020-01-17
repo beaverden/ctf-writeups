@@ -1,0 +1,1 @@
+tshark -r 1.outputFile.pcap -q -o "ssl.keys_list:192.168.2.1,443,http,4.server.key.pem" -w 5.decrypted_ssl.pcap

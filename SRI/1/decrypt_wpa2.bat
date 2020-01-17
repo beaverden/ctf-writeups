@@ -1,0 +1,1 @@
+tshark -nr 0.th1.pcap -o "wlan.enable_decryption:TRUE" -o "uat:80211_keys:\"wpa-pwd\",\"vanatoare:Comoara\"" -w 1.outputFile.pcap

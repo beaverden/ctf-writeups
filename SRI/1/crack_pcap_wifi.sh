@@ -1,0 +1,1 @@
+john --stdout --wordlist=good.txt --rules | aircrack-ng -e Comoara -a 2 -w - th1.pcap
