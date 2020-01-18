@@ -1,10 +1,10 @@
 # Challenge 1
 
-1. We are met with a PCAP file containing multiple types of communication. This file is going to be present
-thougout the whole challenge.
+We are met with a `PCAP` file containing multiple types of communication. This file is going to be present
+thoughout the whole challenge.
 
 First, we need to analyze the WiFi protocol communications. To be able to find the password, we need a 
-WPA2 handshake. We have that in the 4 EAPOL packets. We can use `aircrack-ng` to extract and convert the packets
+WPA2 handshake. We have that in the 4 `EAPOL` packets. We can use `aircrack-ng` to extract and convert the packets
 into hashes. And the crack them using `hashcat` or `john the ripper`. Reference: `crack_pcap_wifi.sh`
 
 We now have the password `vanatoare` to the encrypted wifi communications, where we find 2 pictures. 
