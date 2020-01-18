@@ -1,0 +1,67 @@
+{
+"_index": "logstash-0",
+"_type": "doc",
+"_id": "MZvnemEB5tnkwG5-qfpD",
+"_version": 5,
+"_score": null,
+"_source": {
+"index": "logstash-0",
+"@timestamp": "2018-02-09T16:08:24.846Z",
+"ip": "170.86.64.146",
+"extension": "exe",
+"response": "200",
+"geo": {
+"coordinates": {
+"lat": 34.64519778,
+"lon": -106.8336958
+},
+"src": "IN",
+"dest": "RO",
+"srcdest": "IN:RO"
+},
+"@tags": [
+"warning",
+"security"
+],
+"utc_time": "2018-02-09T16:08:24.846Z",
+"referer": "Felicitari! Contacteaza-ne la LSMOPR4A17P@cyberint.ro",
+"agent": "Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1",
+"clientip": "170.86.64.146",
+"bytes": 20195,
+"host": "CYBERINT.RO",
+"request": "/worm/exploit/binary.exe",
+"url": "https://media-for-the-masses.theacademyofperformingartsandscience.org/uploads/f-drew-gaffney.jpg",
+"@message": "170.86.64.146 - - [2018-02-09T16:08:24.846Z] \"GET /uploads/f-drew-gaffney.jpg HTTP/1.1\" 200 3985 \"-\" \"Mozilla/5.0 (X11; Linux x86_64; rv:6.0a1) Gecko/20110421 Firefox/6.0a1\"",
+"spaces": "this   is   a   thing    with lots of     spaces       wwwwoooooo",
+"xss": "<script>console.log(\"xss\")</script>",
+"headings": [
+"<h3>roger-b-chaffee</h5>",
+"http://www.slate.com/success/fernando-caldeiro"
+],
+"links": [
+"gerhard-thiele@twitter.com",
+"http://www.slate.com/info/oleg-makarov",
+"www.www.slate.com"
+],
+"machine": {
+"os": "win 7",
+"ram": 5368709120
+}
+},
+"fields": {
+"utc_time": [
+"2018-02-09T16:08:24.846Z"
+],
+"@timestamp": [
+"2018-02-09T16:08:24.846Z"
+]
+},
+"highlight": {
+"index": [
+"logstash-@kibana-highlighted-field@0@/kibana-highlighted-field@"
+]
+},
+"sort": [
+1518192504846
+]
+}

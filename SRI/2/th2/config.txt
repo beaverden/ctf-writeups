@@ -1,0 +1,5 @@
+Configurare:
+
+1) Se importa masina virtuala intr-un mediu de virtualizare
+2) Se porneste masina, iar apoi se deschide shortcut-ul de pe desktop care va deschide interfata grafica Kibana
+3) Se va cauta flagul in loguri

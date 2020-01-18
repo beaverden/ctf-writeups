@@ -1,0 +1,26 @@
+private static void main(args)
+{
+	string argXor = "BXQMRxx7GDwXHgAAF2QLCzMQNWUIaAgABx8yERMBZlI="
+	string success = "AF0mKz41cQArKgNEMGRdMz4fHBwAAQRaC3QqcwAPMQQrKwNRGHQiNTg2GwA7XwBaM3QpJAMPGxE4NB9VGHUiFQ4yIT02KABFHmYuKT8PAwQBAT1INXBZOjghCxIDPxNXMwFZczsPfFk7PxNXNWAucjk1eAAGK2hENWQbJDg1JVo4OyZI"
+	string fail = "BnQPIQRiCF4eYiIdGVh8JzdIDAAcYHRV"
+	string failKey = "U1Ih"
+	string cyberint = "Q3lCZXIhblQ="
+	string argKey = "Q0BwVHVyZVRoZUZsQGc="
+	if (nrArgs < 1)
+	{
+		return;
+	}
+	if (nrArgs > 1)
+	{
+		Console.WriteLine(Decrypt(B64Decode(text2), text3); // SEFIQSA6KSkuLi5ObyEhIQ== -> HAHA :))...No!!!
+		return;
+	}
+	if (Decrypt(Convert.ToBase64String(Encoding.UTF8.GetBytes(args[0]])), argKey).Equals(argXor))
+	{
+		Console.WriteLine(Encoding.UTF8.GetString(Convert.FromBase64String(Decrypt(success, cyberint))));
+		return;
+	} else {
+		Console.WriteLine(Encoding.UTF8.GetString(Convert.FromBase64String(Decrypt(fail, failKey))));
+	}
+
+}
